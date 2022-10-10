@@ -1,2 +1,3 @@
 # Human_following_robot
 A wide range of human-robot collaborative applications in diverse domains such as manufacturing, health care, the entertainment industry, and social interactions, require an autonomous robot to follow its human companion. Different working environments and applications pose diverse challenges by adding constraints on the choice of sensors, the degree of autonomy, and dynamics of a person-following robot. The aim of this project is to build a human following robot using an Arduino microcontroller built with IR sensors and an ultrasonic sensor, Arduino and motor driver.
+You'll need an Arduino, Ultrasonic Sensor (HC-SR04 - the one I used), 2 infrared modules, the motor driver shield and and 4 12V dc motors to run each of the wheels. 
